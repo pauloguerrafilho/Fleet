@@ -1,0 +1,6 @@
+{
+  "name": "FLEET REPORT PRIOR VELHO — Sistema de Gestão de Frotas",
+  "description": "Professional fleet management system for tracking vehicle status (Maintenance, Cleaning, Ready to Rent) with real-time counters and printable structural reports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
